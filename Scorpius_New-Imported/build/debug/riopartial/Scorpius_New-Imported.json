@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project Scorpius_New-Imported)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "Scorpius_New-Imported",
+    "language": "java"
+  }
+]
